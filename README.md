@@ -89,7 +89,7 @@
     <h2>🎥 Watch the Process</h2>
     <div class="video-container">
       <!-- Replace VIDEO_LINK with YouTube or any video link -->
-      <iframe src="https://www.youtube.com/embed/VIDEO_LINK" allowfullscreen></iframe>
+      <iframe src="https://youtu.be/PoOsh4fDRGk" allowfullscreen></iframe>
     </div>
 
     <h2>🌍 Benefits</h2>
