@@ -101,6 +101,12 @@
       ✅ Fun to make at home <br>
     </p>
   </section>
+  <iframe width="560" height="315"
+src="https://www.youtube.com/embed/VIDEO_ID"
+title="Oats Cup Video" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
 
   <footer>
     <p>© 2025 Healthy Creations | Eat Smart, Live Smart</p>
